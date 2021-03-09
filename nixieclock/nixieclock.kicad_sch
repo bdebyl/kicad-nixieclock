@@ -1,0 +1,88 @@
+(kicad_sch (version 20200828) (generator eeschema)
+
+  (page 1 2)
+
+  (paper "A4")
+
+  (title_block
+    (title "Nixie Clock")
+    (date "2021-03-08")
+    (company "Bastian de Byl")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 25.4 25.4) (size 25.4 25.4)
+    (stroke (width 0.001) (type solid) (color 132 0 132 1))
+    (fill (color 255 255 255 0.0000))
+    (uuid 6d9f91fa-39e6-43ca-a268-175e4880283f)
+    (property "Sheet name" "hv_supply" (id 0) (at 25.4 24.7641 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "hv_supply.kicad_sch" (id 1) (at 25.4 51.3089 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (symbol_instances
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/0f9f5cb5-dbb5-4510-83ca-c4146ec047b2"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/2bdf2ad4-0323-47c4-99ec-c6f05ebb0a5a"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/4e15be29-d1da-496b-ac64-6d350dc23794"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/5c94e6c2-3b07-4442-a46f-c9e0679a5b05"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/8c141ddb-cbcf-4d2f-be07-c0463fc1b990"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/c1c15df9-4653-48b0-a506-459f28dd0b56"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/2587531b-6425-452b-a9ee-2c7cc75e420f"
+      (reference "C?") (unit 1) (value "47uF") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/2696d89e-8d50-40a4-a639-bf060ba968cc"
+      (reference "C?") (unit 1) (value "10uF") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/2be834fe-9c17-4c67-b8be-ff0e787d97e2"
+      (reference "C?") (unit 1) (value "47uF") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/3ad58e5f-2e32-445d-96d8-e555c70b8848"
+      (reference "C?") (unit 1) (value "47uF") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/aa6cd974-768b-4a67-aa09-5d5d4bb8fca2"
+      (reference "C?") (unit 1) (value "100nF") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/ab882310-9b61-4024-9dd7-b22d4dead42a"
+      (reference "C?") (unit 1) (value "22nF") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/b4840251-4c83-4dea-bc31-ca665b120a84"
+      (reference "C?") (unit 1) (value "47uF") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/1fc38144-a8b6-41d5-be8b-8834d371e9b3"
+      (reference "L?") (unit 1) (value "DA2032") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/8e5ad2a8-82f1-465f-af97-ea0fb97dbad7"
+      (reference "Q?") (unit 1) (value "Q_NMOS_GDS") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/36a00695-3251-4a75-81e8-8be81e2cfe14"
+      (reference "R?") (unit 1) (value "140k") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/7967def4-b36b-4486-89c2-4c8a9f5b41ef"
+      (reference "R?") (unit 1) (value "10k") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/7ed86f17-d00d-4bb1-94cb-399960db8ac6"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+    (path "/6d9f91fa-39e6-43ca-a268-175e4880283f/6bdbf203-3b56-419f-b5c0-f4597776e450"
+      (reference "U?") (unit 1) (value "LT3757AEMSE") (footprint "Package_SO:MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm")
+    )
+  )
+)
