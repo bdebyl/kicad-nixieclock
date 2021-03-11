@@ -377,12 +377,20 @@
   },
   "sheets": [
     [
-      "97298369-8f34-4e17-9fad-6dceab7e51e1",
+      "3712d7a9-4e90-4783-95af-9ada4bc83b20",
       ""
     ],
     [
       "6d9f91fa-39e6-43ca-a268-175e4880283f",
       "hv_supply"
+    ],
+    [
+      "a46896f1-3299-462b-8eac-566ddac50b81",
+      "nixie_tubes"
+    ],
+    [
+      "a645acc1-af0d-43da-834c-14426116caab",
+      "cathode_registers"
     ]
   ],
   "text_variables": {}

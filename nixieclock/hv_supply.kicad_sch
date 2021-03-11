@@ -1,12 +1,12 @@
 (kicad_sch (version 20200828) (generator eeschema)
 
-  (page 2 2)
+  (page 2 4)
 
   (paper "A4")
 
   (title_block
     (title "Nixie Clock - HV Supply")
-    (date "2021-03-08")
+    (date "2021-03-10")
     (company "Bastian de Byl")
     (comment 1 "https://github.com/tonyp7/170v-nixie-power-supply/")
     (comment 2 "Original source from 'tonyp7'")
