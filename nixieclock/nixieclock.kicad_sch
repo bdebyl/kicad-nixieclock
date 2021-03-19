@@ -116,6 +116,18 @@
     )
   )
 
+  (sheet (at 177.8 25.4) (size 25.4 25.4)
+    (stroke (width 0.0006) (type solid) (color 132 0 132 1))
+    (fill (color 255 255 255 0.0000))
+    (uuid a724e452-8dc5-4051-8b81-2fd3eafcc3bd)
+    (property "Sheet name" "microcontroller" (id 0) (at 177.8 24.7643 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "microcontroller.kicad_sch" (id 1) (at 177.8 51.3087 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 63.5 25.4) (size 25.4 25.4)
     (stroke (width 0.001) (type solid) (color 132 0 132 1))
     (fill (color 255 255 255 0.0000))
@@ -162,6 +174,7 @@
     (path "/a46896f1-3299-462b-8eac-566ddac50b81/" (page "3"))
     (path "/45da1564-3080-439e-9487-27ba0f449a7b/" (page "4"))
     (path "/a645acc1-af0d-43da-834c-14426116caab/" (page "5"))
+    (path "/a724e452-8dc5-4051-8b81-2fd3eafcc3bd/" (page "6"))
   )
 
   (symbol_instances
@@ -674,6 +687,9 @@
     )
     (path "/a645acc1-af0d-43da-834c-14426116caab/7b3fe77c-35ec-4f8d-abf5-b2310dd3dcd5"
       (reference "U7") (unit 1) (value "74HC595") (footprint "Package_SO:SOIC-16_4.55x10.3mm_P1.27mm")
+    )
+    (path "/a724e452-8dc5-4051-8b81-2fd3eafcc3bd/1e6fa702-a73d-4c8c-abc8-db0dc159d5d3"
+      (reference "U8") (unit 1) (value "STM32F058R8Tx") (footprint "Package_QFP:LQFP-64_10x10mm_P0.5mm")
     )
   )
 )

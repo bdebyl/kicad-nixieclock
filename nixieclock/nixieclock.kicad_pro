@@ -473,7 +473,7 @@
   },
   "sheets": [
     [
-      "3cebb196-7c82-4dff-884d-852f4dec5674",
+      "6d9f91fa-39e6-43ca-a268-175e4880283f",
       ""
     ],
     [
@@ -491,6 +491,10 @@
     [
       "a645acc1-af0d-43da-834c-14426116caab",
       "cathode_registers"
+    ],
+    [
+      "a724e452-8dc5-4051-8b81-2fd3eafcc3bd",
+      "microcontroller"
     ]
   ],
   "text_variables": {}
