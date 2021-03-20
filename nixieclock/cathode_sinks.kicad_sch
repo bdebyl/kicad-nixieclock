@@ -4,7 +4,8 @@
 
   (title_block
     (title "Nixie Clock - Cathode Sinks")
-    (date "2021-03-18")
+    (date "2021-03-19")
+    (company "Bastian de Byl")
   )
 
   (lib_symbols

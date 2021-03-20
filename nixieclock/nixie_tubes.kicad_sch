@@ -4,7 +4,8 @@
 
   (title_block
     (title "Nixie Clock - Elements")
-    (date "2021-03-18")
+    (date "2021-03-19")
+    (company "Bastian de Byl")
     (comment 3 "to simulate 60Hz AC allowing both elements to turn on")
     (comment 4 "Neon lights are controller via H-bridge oscillator,")
   )
