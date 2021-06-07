@@ -19,10 +19,7 @@ modification of the symbols, footprints, and viewing of 3D models:
 Import these as either project or global libraries when opening the KiCAD
 project.
 
-- [kicad-footprints](https://github.com/bdebyl/kicad-footprints/tree/bdebyl) @
-  >= `24aded49`
-- [kicad-symbols](https://github.com/bdebyl/kicad-symbols/tree/bdebyl) @ >=
-  `2f7d2fdd`
-- [kicad-packages3D](https://github.com/bdebyl/kicad-packages3D/tree/bdebyl) @
-  >= `60a787a1`
+- [kicad-footprints](https://github.com/bdebyl/kicad-footprints/tree/bdebyl) @ `24aded49`
+- [kicad-symbols](https://github.com/bdebyl/kicad-symbols/tree/bdebyl) @ `2f7d2fdd`
+- [kicad-packages3D](https://github.com/bdebyl/kicad-packages3D/tree/bdebyl) @ `60a787a1`
 
