@@ -4,8 +4,8 @@
 
   (title_block
     (title "Nixie Clock")
-    (date "2021-03-24")
-    (rev "20210324")
+    (date "2021-06-06")
+    (rev "20210606")
     (company "Bastian de Byl")
   )
 
