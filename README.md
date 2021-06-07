@@ -23,3 +23,10 @@ project.
 - [kicad-symbols](https://github.com/bdebyl/kicad-symbols/tree/bdebyl) @ `2f7d2fdd`
 - [kicad-packages3D](https://github.com/bdebyl/kicad-packages3D/tree/bdebyl) @ `60a787a1`
 
+## Additional Hardware
+
+A custom model for an IN-14 holder or stand-off for 3D printing designed by
+myself is alos available via Thangs. This was designed to create additional
+height for the tubes on the PCB and aesthetic purposes (printed in black).
+
+- [IN-14 Nixie Tube Holder or Standoff](https://thangs.com/brdb/IN14-Nixie-Tube-Holder-or-Standoff-18248)
